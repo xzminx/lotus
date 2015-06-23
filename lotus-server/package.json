@@ -1,0 +1,10 @@
+{
+  "name": "lotus-server",
+  "version": "0.0.0",
+  "description": "lotus-server",
+  "main": "app.js",
+  "author": {
+    "name": "Zoran",
+    "email": ""
+  }
+}
